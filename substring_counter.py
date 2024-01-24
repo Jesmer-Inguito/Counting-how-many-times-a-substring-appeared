@@ -8,3 +8,4 @@ print(str_x)
 counter = str_x.count("Emma")
 
 # Show results
+print("Emma appeared", counter, "times")
